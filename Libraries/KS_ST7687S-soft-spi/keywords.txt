@@ -1,0 +1,6 @@
+DFRobot_ST7687S_Latch	KEYWORD1
+
+displayON	KEYWORD2
+displayOFF	KEYWORD2
+displaySleepIN	KEYWORD2
+displaySleepOUT	KEYWORD2
