@@ -18,19 +18,19 @@ Please verify the problem occurs when using the very latest version, using the n
 
 
 
-### Description
+Description
 
 Describe your problem.
 
 
 
-### Steps To Reproduce Problem
+Steps To Reproduce Problem
 
 Please give detailed instructions needed for anyone to attempt to reproduce the problem.
 
 
 
-### Hardware & Software
+Hardware & Software
 
 Board
 Shields / modules used
@@ -41,7 +41,7 @@ Operating system & version
 Any other software or hardware?
 
 
-### Arduino Sketch
+Arduino Sketch
 
 ```cpp
 // Change the code below by your sketch (please try to give the smallest code which demonstrates the problem)
@@ -57,7 +57,7 @@ void loop() {
 ```
 
 
-### Errors or Incorrect Output
+Errors or Incorrect Output
 
 If you see any errors or incorrect output, please show it here.  Please use copy & paste to give an exact copy of the message.  Details matter, so please show (not merely describe) the actual message or error exactly as it appears.
 
